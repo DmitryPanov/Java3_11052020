@@ -26,7 +26,6 @@ public class Main {
         Orange orange2 = new Orange();
         Orange orange3 = new Orange();
 
-
         Box<Orange> box2 = new Box<>();
         box2.addFruit(orange1);
         box2.addFruit(orange2);
